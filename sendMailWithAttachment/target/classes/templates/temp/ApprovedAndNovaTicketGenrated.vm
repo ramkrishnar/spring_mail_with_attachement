@@ -1,0 +1,12 @@
+<html>
+<body>
+<p>
+Your address request for [address string here] has been approved and has been added to GIS/FMS/LPDS.  A NOVA ticket has been submitted on your behalf for Service Qualification.  The NOVA request is [insert NOVA number].
+
+It is important to note that this new address should appear in Desktop One, Sales Force, etc. after 24 hours.
+
+</p>
+<b>You can check the status of your request here:</b>
+<a href="#">Insert link of Address Request</a>
+</body>
+<html>

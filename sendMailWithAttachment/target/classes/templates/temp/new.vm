@@ -1,0 +1,16 @@
+<html>
+<body>
+<p>
+Below is a summary of your Address Request.
+</p>
+<ul>
+<li>Confirmation Number:  [Address Request Number as confirmation]</li>
+<li>Address Requested:  [Address string here]</li>
+</ul>
+<p>
+You can check the status of your request here:
+<a href='#'>Insert link of Address Request</a>
+
+</p>
+<body>
+</html>

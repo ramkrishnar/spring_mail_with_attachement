@@ -1,0 +1,10 @@
+<html>
+<body>
+<p>
+Your address request for [address string here] was rejected because the address is invalid. You can click on the link below to understand why it was rejected.  
+
+</p>
+<b>You can check the status of your request here:</b>
+<a href="#">Insert link of Address Request</a>
+</body>
+<html>
