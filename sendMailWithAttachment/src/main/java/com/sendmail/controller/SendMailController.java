@@ -46,7 +46,9 @@ import org.springframework.web.servlet.ModelAndView;
 public class SendMailController {
 	 @Autowired
 	    private JavaMailSender sender;
-	
+	public void display(){
+		System.out.println("hello git");
+	}
 /*	 @GetMapping(value="/")
 	 public ModelAndView welcome(){
 		 String msg="Send Mail";
